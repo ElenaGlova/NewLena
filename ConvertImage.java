@@ -9,3 +9,4 @@ public class ConvertImage implements TextColorSchema {
         return typeOfSymbol[color / (255 / 8)];
     }
 }
+//fkfkfkjf
